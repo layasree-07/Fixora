@@ -1,0 +1,15 @@
+# Optional. Docker is not required: local MySQL 8 is the Wave 0 default.
+# This file is a template only (Docker is not installed on the current machine).
+services:
+  mysql:
+    image: mysql:8.0
+    environment:
+      MYSQL_DATABASE: fixora
+      MYSQL_ROOT_PASSWORD: change-me
+    ports:
+      - "3306:3306"
+    volumes:
+      - fixora-mysql:/var/lib/mysql
+
+volumes:
+  fixora-mysql:

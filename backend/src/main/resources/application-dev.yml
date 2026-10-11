@@ -1,0 +1,4 @@
+# Local overrides. Do not put real secrets here — use environment variables or a gitignored .env.
+spring:
+  jpa:
+    show-sql: false
