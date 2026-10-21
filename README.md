@@ -88,3 +88,13 @@ Restart Vite after changing environment variables.
 
 ## Scope limitations
 No real phone-number masking/calling, SMS/email OTP, browser push notifications, payment gateway, or live GPS tracking is included in this MVP. The browser only opens navigation via ordinary links when that feature is added. These integrations require separate provider setup and privacy/security review.
+
+## Team Members
+
+| S. No. | Roll Number | Student Name | Role in Project |
+|---|---|---|---|
+| 1 | 24WH1A6655 | SK. Kawsar | Backend Development (Spring Boot APIs) |
+| 2 | 24WH1A6657 | R. Layasree | Team Lead & UI Testing |
+| 3 | 24WH1A6658 | V. Gayathri | Frontend Development (React UI) |
+| 4 | 24WH1A6651 | A. Thanvi | Database Management (MySQL) |
+| 5 | 24WH1A6652 | P. Spandhana | Documentation & Testing Support |
