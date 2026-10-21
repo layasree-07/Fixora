@@ -93,8 +93,9 @@ No real phone-number masking/calling, SMS/email OTP, browser push notifications,
 
 | S. No. | Roll Number | Student Name | Role in Project |
 |---|---|---|---|
+| 1 | 24WH1A6617 | S.Akshitha | Database Management (MySQL) |
+| 2 | 24WH1A6618 | G.Nainishya | Documentation & Testing Support |
 | 1 | 24WH1A6655 | SK. Kawsar | Backend Development (Spring Boot APIs) |
 | 2 | 24WH1A6657 | R. Layasree | Team Lead & UI Testing |
 | 3 | 24WH1A6658 | V. Gayathri | Frontend Development (React UI) |
-| 4 | 24WH1A6651 | A. Thanvi | Database Management (MySQL) |
-| 5 | 24WH1A6652 | P. Spandhana | Documentation & Testing Support |
+
